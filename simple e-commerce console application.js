@@ -18,7 +18,7 @@ var priceList =[
 ]
 Commerce();
 function Commerce(){
-var Input = window.prompt("What will you like to buy? sir"); 
+var Input = prompt("What will you like to buy? sir"); 
 
 switch (Input.toUpperCase()) {
   
